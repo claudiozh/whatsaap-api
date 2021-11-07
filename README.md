@@ -1,2 +1,2 @@
 # whatsaap-api
-Aplicação desenvolvida para realizar testes na versão multdevice do whatsaap 
+Aplicação desenvolvida em Nodejs para testar os recursos do whatsaap multdevice
